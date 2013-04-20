@@ -14,7 +14,7 @@ import com.sap.conn.jco.JCoTable;
 public class Test {
 	
 	/**
-	 * 
+	 * Test Git update
 	 * 
 	 * 测试的 数据格式
 	 * ---------------------------------------------
