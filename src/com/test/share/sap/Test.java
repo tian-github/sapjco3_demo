@@ -15,6 +15,7 @@ public class Test {
 	
 	/**
 	 * Test Git update
+	 * Test server update
 	 * 
 	 * 测试的 数据格式
 	 * ---------------------------------------------
